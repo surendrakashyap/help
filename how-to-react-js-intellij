@@ -1,0 +1,48 @@
+IntelliJ - ReactJS
+
+Project
+
+/Users/kas587/.nvm/versions/node/v9.5.0/bin/node /Users/kas587/.nvm/versions/node/v9.5.0/lib/node_modules/create-react-app/index.js skreact
+
+Creating a new React app in /private/var/folders/p4/6c6g0l_s7r92v36q2_pddkk0rhshsw/T/1527089107197-0/skreact.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts...
+
+
+> fsevents@1.2.4 install /private/var/folders/p4/6c6g0l_s7r92v36q2_pddkk0rhshsw/T/1527089107197-0/skreact/node_modules/fsevents
+> node install
+
+[fsevents] Success: "/private/var/folders/p4/6c6g0l_s7r92v36q2_pddkk0rhshsw/T/1527089107197-0/skreact/node_modules/fsevents/lib/binding/Release/node-v59-darwin-x64/fse.node" is installed via remote
+
+> uglifyjs-webpack-plugin@0.4.6 postinstall /private/var/folders/p4/6c6g0l_s7r92v36q2_pddkk0rhshsw/T/1527089107197-0/skreact/node_modules/uglifyjs-webpack-plugin
+> node lib/post_install.js
+
++ react-dom@16.3.2
++ react-scripts@1.1.4
++ react@16.3.2
+added 1381 packages in 63.121s
+
+Success! Created skreact at /private/var/folders/p4/6c6g0l_s7r92v36q2_pddkk0rhshsw/T/1527089107197-0/skreact
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd skreact
+  npm start
+
+Happy hacking!
+Done
